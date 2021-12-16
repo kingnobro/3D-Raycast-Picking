@@ -17,5 +17,5 @@
 
 ### 3. Known Issues
 
-- Cannot select the objects closest to the camera.
+- Cannot select the objects closest to the camera. But you can easily implement it by yourself. To be specific, you need to calculate the distance between the camera and the hit point. Object with min distance would be selected.
 
